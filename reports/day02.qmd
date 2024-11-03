@@ -1,0 +1,40 @@
+---
+title: "Fundamentls of R: Part I"
+author: "Md. Jubayer Hossain"
+format: html
+editor: visual
+---
+
+# Abstract
+
+**Background**
+
+**Methods**
+
+**Results**
+
+**Conclusion**
+
+**Keywords:**
+
+# Introduction
+
+# Methods
+
+## Study design and setting
+
+## Sampling techniques
+
+## Statistical analysis
+
+Write a function to sum of two numbers.
+
+```{r}
+2+2
+```
+
+```{r}
+plot(iris)
+```
+
+The figure shows ...(something).
